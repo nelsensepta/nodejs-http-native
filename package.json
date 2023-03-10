@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-http-native",
+  "version": "1.0.0",
+  "description": "dicoding http native",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsensepta/nodejs-http-native.git"
+  },
+  "keywords": [
+    "http-native"
+  ],
+  "author": "nelsensepta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsensepta/nodejs-http-native/issues"
+  },
+  "homepage": "https://github.com/nelsensepta/nodejs-http-native#readme"
+}
